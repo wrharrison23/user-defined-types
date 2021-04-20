@@ -1,0 +1,16 @@
+C:\Users\Wes\workspace\csharp\user-defined-types\bin\Debug\net5.0\user-defined-types.exe
+C:\Users\Wes\workspace\csharp\user-defined-types\bin\Debug\net5.0\user-defined-types.deps.json
+C:\Users\Wes\workspace\csharp\user-defined-types\bin\Debug\net5.0\user-defined-types.runtimeconfig.json
+C:\Users\Wes\workspace\csharp\user-defined-types\bin\Debug\net5.0\user-defined-types.runtimeconfig.dev.json
+C:\Users\Wes\workspace\csharp\user-defined-types\bin\Debug\net5.0\user-defined-types.dll
+C:\Users\Wes\workspace\csharp\user-defined-types\bin\Debug\net5.0\ref\user-defined-types.dll
+C:\Users\Wes\workspace\csharp\user-defined-types\bin\Debug\net5.0\user-defined-types.pdb
+C:\Users\Wes\workspace\csharp\user-defined-types\obj\Debug\net5.0\user-defined-types.csprojAssemblyReference.cache
+C:\Users\Wes\workspace\csharp\user-defined-types\obj\Debug\net5.0\user-defined-types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wes\workspace\csharp\user-defined-types\obj\Debug\net5.0\user-defined-types.AssemblyInfoInputs.cache
+C:\Users\Wes\workspace\csharp\user-defined-types\obj\Debug\net5.0\user-defined-types.AssemblyInfo.cs
+C:\Users\Wes\workspace\csharp\user-defined-types\obj\Debug\net5.0\user-defined-types.csproj.CoreCompileInputs.cache
+C:\Users\Wes\workspace\csharp\user-defined-types\obj\Debug\net5.0\user-defined-types.dll
+C:\Users\Wes\workspace\csharp\user-defined-types\obj\Debug\net5.0\ref\user-defined-types.dll
+C:\Users\Wes\workspace\csharp\user-defined-types\obj\Debug\net5.0\user-defined-types.pdb
+C:\Users\Wes\workspace\csharp\user-defined-types\obj\Debug\net5.0\user-defined-types.genruntimeconfig.cache
